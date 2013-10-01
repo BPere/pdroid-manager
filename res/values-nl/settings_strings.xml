@@ -49,7 +49,7 @@
 	<string name="SETTING_LABEL_ALLOW_READ_GPS_LOCATION">GPS-Locatie</string>
 	<string name="SETTING_HELP_ALLOW_READ_GPS_LOCATION">Beheer de waarde van de locatie van het apparaat aangegeven door de GPS sensor.</string>
 	<string name="SETTING_LABEL_ALLOW_USE_ACCOUNT_CREDENTIALS">Account Verificatiegegevens</string>
-	<string name="SETTING_HELP_ALLOW_USE_ACCOUNT_CREDENTIALS">Beheert of een applicatie een applicatietoken kan gebruikken geassocieerd met een service (bijvoorbeeld de Facebook applicatie die je Facebook accountgegevens gebruikt)</string>
+	<string name="SETTING_HELP_ALLOW_USE_ACCOUNT_CREDENTIALS">Beheert of een applicatie een applicatietoken kan gebruiken geassocieerd met een service (bijvoorbeeld de Facebook applicatie die je Facebook accountgegevens gebruikt)</string>
 	<string name="SETTING_LABEL_ALLOW_READ_ACCOUNTS_LIST">Lijst van Gebruikersaccounts</string>
 	<string name="SETTING_HELP_ALLOW_READ_ACCOUNTS_LIST">Beheert toegang tot de mogelijkheid om een overzicht op te vragen van alle gebruikersaccounts die op dit moment bekend zijn op het apparaat. Naast je Google account kunnen er meerdere gebruikersaccounts bekend zijn op je apparaat. Denk hierbij o.a. aan Dropbox, Twitter, LinkedIn en Firefox. Gebruikersgegevens omvatten zowel de naam van de service als je ID van de service (bijvoorbeeld je Gmail-adres).</string>
 	<string name="SETTING_LABEL_ALLOW_READ_CONTACTS">Contacten</string>
